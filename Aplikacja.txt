@@ -10,3 +10,9 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+       public void logowanie za pomoca konta microsoft() {
+        System.out.println("Podaj nazwe konta microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
